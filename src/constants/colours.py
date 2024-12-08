@@ -1,0 +1,15 @@
+# This section contains variable RGB colour values
+RGB_RED = (255, 0, 0)
+RGB_GREEN = (0, 255, 0)
+RGB_BLUE = (0, 0, 255)
+RGB_WHITE = (255, 255, 255)
+RGB_BG_COLOUR = (39, 68, 92)
+RGB_CRIMSON = (200, 50, 0)
+RGB_MARROON = (150, 0, 0)
+RGB_DEEP_RED = (130, 0, 0)
+
+HEX_ORANGE = "#f97316"
+HED_DARK_ORANGE = "#e66a13"
+
+HEX_WINDOW_BG_COLOUR = "#000011" 
+RGB_WINDOW_BG_COLOUR = (0, 0, 17)
